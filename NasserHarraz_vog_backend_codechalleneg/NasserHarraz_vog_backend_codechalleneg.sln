@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleTest", "ModuleTest\Mo
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A581D6ED-4F61-41BD-8BBE-9403CF50D1B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.Con", "VogCodeChallenge.Con\VogCodeChallenge.Con.csproj", "{CCC55DCF-4657-4945-9BDF-BD061D86CB20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{A581D6ED-4F61-41BD-8BBE-9403CF50D1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A581D6ED-4F61-41BD-8BBE-9403CF50D1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A581D6ED-4F61-41BD-8BBE-9403CF50D1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC55DCF-4657-4945-9BDF-BD061D86CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC55DCF-4657-4945-9BDF-BD061D86CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC55DCF-4657-4945-9BDF-BD061D86CB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC55DCF-4657-4945-9BDF-BD061D86CB20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
