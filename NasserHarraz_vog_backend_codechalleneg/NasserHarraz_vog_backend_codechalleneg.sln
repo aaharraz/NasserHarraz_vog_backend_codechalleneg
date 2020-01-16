@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.API", "VogCodeChallenge.API\VogCodeChallenge.API.csproj", "{350B37C7-8F7F-4C4C-8299-0377A5E4E647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350B37C7-8F7F-4C4C-8299-0377A5E4E647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350B37C7-8F7F-4C4C-8299-0377A5E4E647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350B37C7-8F7F-4C4C-8299-0377A5E4E647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350B37C7-8F7F-4C4C-8299-0377A5E4E647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
